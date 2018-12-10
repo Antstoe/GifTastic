@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    var displayedButtons = ["Powerlift", "Bodybuild", "Swimming", "Raves", "Working"];
+    var displayedBttns = ["Powerlift", "Bodybuild", "Swimming", "Raves", "Working"];
 
     function displayImg() {
 
